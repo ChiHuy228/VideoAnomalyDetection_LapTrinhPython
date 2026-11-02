@@ -1,0 +1,6 @@
+data/
+results/
+weights/
+*.zip
+__pycache__/
+.vscode/

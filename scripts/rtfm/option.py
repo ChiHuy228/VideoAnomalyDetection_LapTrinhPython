@@ -1,0 +1,17 @@
+import argparse
+
+parser = argparse.ArgumentParser(description='RTFM')
+parser.add_argument('--feat-extractor', default='i3d', choices=['i3d', 'c3d'])
+parser.add_argument('--feature-size', type=int, default=2048)
+parser.add_argument('--modality', default='RGB')
+parser.add_argument('--lr', type=str, default='[0.001]*15000')
+parser.add_argument('--batch-size', type=int, default=32)
+parser.add_argument('--workers', type=int, default=4)
+parser.add_argument('--model-name', default='rtfm')
+parser.add_argument('--num-classes', type=int, default=1)
+parser.add_argument('--dataset', default='ucf')
+parser.add_argument('--max-epoch', type=int, default=15000)
+parser.add_argument('--ckpt-dir', default='ckpt')
+parser.add_argument('--log-every', type=int, default=100)
+parser.add_argument('--eval-every', type=int, default=100)
+parser.add_argument('--eval-start', type=int, default=200)
