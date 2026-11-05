@@ -1,0 +1,9 @@
+{
+    "python.analysis.extraPaths": [
+        "VideoAnomalyDetection_LapTrinhPython/scripts/mil",
+        "VideoAnomalyDetection_LapTrinhPython/scripts/evtmil",
+        "VideoAnomalyDetection_LapTrinhPython/scripts/rtfm",
+        "VideoAnomalyDetection_LapTrinhPython/scripts/urdmu",
+        "VideoAnomalyDetection_LapTrinhPython/scripts/vadclip"
+    ]
+}

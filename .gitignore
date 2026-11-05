@@ -1,6 +1,15 @@
-data/
-results/
-weights/
-*.zip
+# Bỏ qua nội dung trong 3 folder temp nhưng giữ lại vỏ folder
+streamlit_demo/temp_features/*
+!streamlit_demo/temp_features/.gitkeep
+
+streamlit_demo/temp_scores/*
+!streamlit_demo/temp_scores/.gitkeep
+
+streamlit_demo/temp_videos/*
+!streamlit_demo/temp_videos/.gitkeep
+
+# Bỏ qua rác hệ thống cơ bản
 __pycache__/
-.vscode/
+.DS_Store
+# Bỏ qua toàn bộ thư mục chứa trọng số mô hình
+streamlit_demo/model/
