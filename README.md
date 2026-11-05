@@ -2,6 +2,8 @@
 
 Vì giới hạn dung lượng của GitHub, thư mục `model` không được đẩy lên kho lưu trữ này. Để hệ thống hoạt động, bạn vui lòng làm theo các bước sau:
 
+**NHỚ TẢI CÁI REQUIREMENT nha 
+
 **1. Tải trọng số từ Google Drive:**
 * Truy cập link Google Drive sau: `[https://drive.google.com/file/d/1UDR8skSQ9ut4KP8AYnMBRNJR4pzghAFE/view?usp=sharing]`
 * Tải toàn bộ thư mục `model` về máy.
