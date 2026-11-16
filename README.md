@@ -15,7 +15,7 @@ Vì giới hạn dung lượng của GitHub, thư mục `model` không được 
 
 
 #1. Tải trọng số từ Google Drive:**
-* Truy cập link Google Drive sau: `[https://drive.google.com/file/d/1UDR8skSQ9ut4KP8AYnMBRNJR4pzghAFE/view?usp=sharing]`
+* Truy cập link Google Drive sau:https://drive.google.com/file/d/1UDR8skSQ9ut4KP8AYnMBRNJR4pzghAFE/view?usp=sharing
 * Tải toàn bộ thư mục `model` về máy.
 
 #2. Đặt vào đúng vị trí:**
