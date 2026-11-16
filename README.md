@@ -1,10 +1,10 @@
 ## THÔNG TIN THÀNH VIÊN NHÓM 1_DH23TIN05
-* Lê Hoàng Danh - 235087
-* Phan Quốc Duy - 235019
-* Trần Anh Đoàn - 234818
-* Tô Chí Huy - 234662
-* Phạm Trí Khang - 235187
-* Đặng Thị Yến Nhi - 235187
+* Lê Hoàng Danh - 235087 - EVTMIL
+* Phan Quốc Duy - 235019 - MIL
+* Trần Anh Đoàn - 234818 - VadCLIP
+* Tô Chí Huy - 234662 - RTFM
+* Phạm Trí Khang - 235187 - URDMU
+* Đặng Thị Yến Nhi - 235187 - VadCLIP
 
 ** Đường dẫn dataset: https://www.dropbox.com/scl/fo/2aczdnx37hxvcfdo4rq4q/AOjRokSTaiKxXmgUyqdcI6k?rlkey=5bg7mxxbq46t7aujfch46dlvz&e=2&dl=0
 
